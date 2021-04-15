@@ -46,7 +46,7 @@ body {
   line-height: 89px;
 }
 .text-for-me {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -208,4 +208,7 @@ line-height: 24px; */
   color: #969696;
 
   margin-top: 20px;
+}
+.text-indent {
+  text-indent: 20px;
 }
